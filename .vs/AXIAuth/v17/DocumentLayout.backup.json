@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\axi\\source\\repos\\AXIAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EFEF2-0183-42DE-B7A4-FE7908E84662}|AXIAuth\\AXIAuth.csproj|c:\\users\\axi\\source\\repos\\axiauth\\axiauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EFEF2-0183-42DE-B7A4-FE7908E84662}|AXIAuth\\AXIAuth.csproj|solutionrelative:axiauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10EFEF2-0183-42DE-B7A4-FE7908E84662}|AXIAuth\\AXIAuth.csproj|c:\\users\\axi\\source\\repos\\axiauth\\axiauth\\axiauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10EFEF2-0183-42DE-B7A4-FE7908E84662}|AXIAuth\\AXIAuth.csproj|solutionrelative:axiauth\\axiauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AxiAuth.cs",
+              "DocumentMoniker": "C:\\Users\\axi\\source\\repos\\AXIAuth\\AXIAuth\\AxiAuth.cs",
+              "RelativeDocumentMoniker": "AXIAuth\\AxiAuth.cs",
+              "ToolTip": "C:\\Users\\axi\\source\\repos\\AXIAuth\\AXIAuth\\AxiAuth.cs",
+              "RelativeToolTip": "AXIAuth\\AxiAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T01:23:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\axi\\source\\repos\\AXIAuth\\AXIAuth\\Program.cs",
+              "RelativeDocumentMoniker": "AXIAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\axi\\source\\repos\\AXIAuth\\AXIAuth\\Program.cs",
+              "RelativeToolTip": "AXIAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T00:45:30.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

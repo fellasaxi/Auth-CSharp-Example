@@ -1,0 +1,10 @@
+07/04/2026 08.19.00 > SSL assertion fail, make sure you're not debugging Network. Disable internet firewall on router if possible. & echo: & echo If not, ask the developer of the program to use custom domains to fix this.
+07/04/2026 08.19.45 > SSL assertion fail, make sure you're not debugging Network. Disable internet firewall on router if possible. & echo: & echo If not, ask the developer of the program to use custom domains to fix this.
+07/04/2026 08.22.06 > SSL assertion fail, make sure you're not debugging Network. Disable internet firewall on router if possible. & echo: & echo If not, ask the developer of the program to use custom domains to fix this.
+07/04/2026 08.24.01 > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: Redis isn't installed. You must install Redis server and Redis PHP extension.<br><br>Or if your configuration can't install Redis, remove code containing Redis from /includes/misc/cache.php
+07/04/2026 08.26.11 > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: Redis isn't installed. You must install Redis server and Redis PHP extension.<br><br>Or if your configuration can't install Redis, remove code containing Redis from /includes/misc/cache.php
+07/04/2026 08.29.01 > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"message":"No OwnerID specified. Select app & copy code snippet from http:\/\/localhost\/axiauth\/app\/"}
+07/04/2026 08.30.37 > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: Redis isn't installed. You must install Redis server and Redis PHP extension.<br><br>Or if your configuration can't install Redis, remove code containing Redis from /includes/misc/cache.php
+07/04/2026 13.37.48 > Connection failure. Please try again, or contact us for help.
+07/04/2026 13.38.07 > Connection failure. Please try again, or contact us for help.
+07/04/2026 13.38.31 > Connection failure. Please try again, or contact us for help.
